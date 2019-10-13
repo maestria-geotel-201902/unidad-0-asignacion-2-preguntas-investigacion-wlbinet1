@@ -11,12 +11,10 @@ Son múltiples las aplicaciones del análisis espacial desde las que podrías co
 
 Mi/s pregunta/s de investigación es/son la/s siguiente/s (sustitye los puntos suspensivos por tus preguntas, no borres el símbolo \*).
 
-* ...
+* Cuales han sido las causas del crecimiento y/o decrecimiento de los bosques en las áreas protegidas nacionales en los últimos veinte años?
 
-* ...
+* En cuales actividades y proporción están siendo utilizadas las zonas de amortiguamiento de las áreas protegidas?
 
-* ...
+* De acuerdo a la proyección de crecimiento poblacional para los proximos 50 años y de acuerdo a las posibilidades de crecimiento seguro de la ciudades,qué tanto territorio en km2 se deberán asignar para las zonas urbanas cabeceras de provincia y hacia qué dirección podrían crecer?
 
-* ...
-
-* ...
+* De acuerdo a la tasa de nacimiento y de mortandad actual, qué tanta población tendrán los municipios en 100 años?
